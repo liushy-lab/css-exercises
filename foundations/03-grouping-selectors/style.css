@@ -1,1 +1,12 @@
-cd ..
+.el {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.bbutton {
+    color: white;
+    background-color: black;
+}
+.ybutton {
+    background-color: yellow;
+}
