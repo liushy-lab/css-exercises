@@ -11,11 +11,11 @@
   font-size: 22px;
 }
 
-.confirm {
-  background: green;
+#confirm-button {
+  background-color: green;
   color: white;
   font-weight: bold;
-} 
+}
 
 .button {
   background-color: rgb(255, 255, 255);
