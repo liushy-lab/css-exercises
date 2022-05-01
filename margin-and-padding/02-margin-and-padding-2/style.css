@@ -20,19 +20,21 @@ body {
 .content {
   background: #e3f4ff;
   margin: 8px;
-  padding: 8px 16px;
+  padding: 8px;
 }
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
   margin: 8px;
-  padding: 8px 16px;
+  padding: 8px;
 }
 
 button {
+  display: block;
   background: white;
+  text-align: center;
   border: 1px solid #eee;
-  padding-left: auto;
+  padding: 8px 24px;
   margin: auto;
 }
