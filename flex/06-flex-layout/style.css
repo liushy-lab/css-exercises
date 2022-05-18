@@ -5,6 +5,7 @@ body {
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  height: 100vh
 }
 
 img {
@@ -24,4 +25,13 @@ input {
   padding: 8px 24px;
   width: 400px;
   margin-bottom: 16px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer{
+  background: #eeeeee;
 }
