@@ -31,3 +31,9 @@ body {
   display: flex;
   flex-direction: column;
 }
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
