@@ -40,6 +40,12 @@ body {
   padding: 0px 16px;
 }
 
+.sidebar {
+  display: flex;
+  flex-shrink: 0;
+  padding: 16px;
+}
+
 .footer {
   display: flex;
   align-items: center;
