@@ -59,6 +59,10 @@ a {
 
 }
 
+.card {
+  padding: 32px;
+}
+
 .footer {
   display: flex;
   align-items: center;
