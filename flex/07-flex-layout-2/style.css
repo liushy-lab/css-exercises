@@ -32,6 +32,11 @@ body {
   flex-direction: column;
 }
 
+.main {
+  display: flex;
+  flex: 1;
+}
+
 .header {
   display: flex;
   align-items: center;
