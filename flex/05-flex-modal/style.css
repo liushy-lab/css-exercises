@@ -71,7 +71,7 @@ button.cancel {
 }
 
 .icon {
-
+  flex-shrink: 0;
 }
 
 .continue, .cancel {
