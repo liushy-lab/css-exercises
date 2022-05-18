@@ -67,13 +67,20 @@ button.cancel {
 
 .modal {
   display: flex;
-  padding: 18px;
+  gap: 16px;
+  padding: 16px;
 }
 
-.icon {
+.icon, .close-button {
   flex-shrink: 0;
 }
 
-.continue, .cancel {
-
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
 }
+
+
