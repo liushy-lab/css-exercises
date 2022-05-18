@@ -46,6 +46,17 @@ body {
   padding: 16px;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: white;
+
+}
+
 .footer {
   display: flex;
   align-items: center;
