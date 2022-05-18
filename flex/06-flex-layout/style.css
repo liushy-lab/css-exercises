@@ -41,6 +41,13 @@ body {
 
 .footer {
   display: flex;
+  justify-content: space-between;
   background: #eeeeee;
+  margin: 16px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
   margin: 16px;
 }
