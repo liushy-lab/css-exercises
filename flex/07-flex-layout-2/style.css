@@ -72,12 +72,14 @@ a {
   display: flex;
   flex-wrap: wrap;
   padding: 32px;
-  width: 300px;
 }
 
 .card {
+  flex: 1;
+  width: 300px;
   padding: 16px;
   margin: 16px;
+
 }
 
 .footer {

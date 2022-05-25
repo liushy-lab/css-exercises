@@ -62,3 +62,7 @@ a {
   color: dimgrey;
   text-decoration: none;
 }
+
+button {
+  padding: 8px 10px;
+}
